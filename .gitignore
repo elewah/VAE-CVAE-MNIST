@@ -1,0 +1,8 @@
+.venv/
+runs/
+*.webp
+__pycache__/
+vae/
+VAE-CVAE-MNIST/vae/
+VAE-CVAE-MNIST/__pycache__/
+VAE-CVAE-MNIST/data/MNIST/raw/
