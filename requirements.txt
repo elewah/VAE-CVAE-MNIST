@@ -1,6 +1,6 @@
 cycler==0.10.0
 kiwisolver==1.0.1
-matplotlib==3.0.2
+matplotlib
 numpy==1.22.0
 pandas==0.24.1
 Pillow>=6.2.2
